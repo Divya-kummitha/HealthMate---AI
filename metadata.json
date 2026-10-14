@@ -1,0 +1,6 @@
+{
+  "name": "HealthMate AI",
+  "description": "AI-Powered Personal Health Copilot converting fragmented medical reports, medicines, appointments, and symptoms into a personalized health journey.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
